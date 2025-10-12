@@ -9,4 +9,4 @@ ID：最重要的，你每一个回复语句都要匹配相应的ID
 只需要prompt_play_by_cmd_id后（）内第一个数字
 如：prompt_play_by_cmd_id(40, -1, play_end_callback, false);
 我想让他播放20这条语音只需要：
-    prompt_play_by_cmd_id(40, -1, play_end_callback, false);
+    prompt_play_by_cmd_id(20, -1, play_end_callback, false);
