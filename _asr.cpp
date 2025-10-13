@@ -167,6 +167,8 @@ void hardware_init()
 }
 
 // setup 初始化
+//如果你遇到播放音频没有声音，你可以把你要播放的音频在这里生成一遍
+//如：//{playid:53,voice:准备去抢特价的通心粉}
 void setup()
 {
     hardware_init();
@@ -243,3 +245,4 @@ void setup()
 
     set_wakeup_forever(); // 永远唤醒
 }
+
