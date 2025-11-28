@@ -10,6 +10,8 @@ ID：最重要的，你每一个回复语句都要匹配相应的ID
 如：prompt_play_by_cmd_id(40, -1, play_end_callback, false);  
 我想让他播放20这条语音只需要：  
     prompt_play_by_cmd_id(20, -1, play_end_callback, false);  
+这个你们可以去b站去找教程  
 如果你遇到类似：在天问里烧录不了，烧录过程中闪退等  
 可以把天问删了重新下  
+也可以加天问block官方的群  
 如果还是不行，那你可以睡一觉，说不定明天就好了(我之前很多次就是睡一觉莫名其妙就可以烧录了)  
